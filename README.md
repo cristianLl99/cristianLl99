@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hola, soy Cristian
 
-<!--
-**cristianLl99/cristianLl99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ✨ Edad: 25  
+- 💻 Estudiante de Ingeniería Informática  
+- 📚 Actualmente aprendiendo: Java, Testing y soporte IT  
+- ⚡ Dato curioso: Me gusta programar y aprender cosas nuevas  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Mis habilidades
+
+### 💻 Lenguajes
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![SQLite](https://img.shields.io/badge/SQLite-blue?style=for-the-badge&logo=sqlite)
+
+---
+
+### 🛠️ Herramientas
+![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+
+---
+
+## 📌 Proyectos
+- Sistema de inventario en Python 🗄️  
+- Ejercicios en C 💻  
+
+---
+
+## 🎯 Objetivo
+Quiero conseguir mi primer trabajo en IT como programador junior o soporte técnico.
