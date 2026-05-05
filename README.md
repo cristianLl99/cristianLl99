@@ -19,6 +19,7 @@
 
 <h3 align="center">🌐 Redes</h3>
 <p align="center">
+  TCP/IP · IPv4 · IPv6 <br>
   <img src="https://img.shields.io/badge/Cisco-Packet%20Tracer-blue?style=for-the-badge&logo=cisco" />
 </p>
 
