@@ -9,12 +9,19 @@
 
 ## 🌱 Mis habilidades
 
-### 💻 Lenguajes
+### 💻 Lenguajes y redes
+
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![SQLite](https://img.shields.io/badge/SQLite-blue?style=for-the-badge&logo=sqlite)
+![Assembly](https://img.shields.io/badge/Assembly-black?style=for-the-badge&logo=gnu)
+
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=sqlite)
 
 ---
+
+### 🌐 Redes
+
+![Cisco](https://img.shields.io/badge/Cisco-Packet%20Tracer-blue?style=for-the-badge&logo=cisco)
 
 ### 🛠️ Herramientas
 ![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
