@@ -6,7 +6,7 @@
 - ⚡ Dato curioso: Me gusta programar y aprender cosas nuevas  
 
 ---
-
+<p align="center">
 ## 🌱 Mis habilidades
 
 ### 💻 Lenguajes y redes
@@ -20,10 +20,4 @@
 
 ### 🛠️ Herramientas
 ![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode) ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-
-## 📌 Proyectos
-- Sistema de inventario en Python 🗄️  
-- Ejercicios en C 💻  
-
-## 🎯 Objetivo
-Quiero conseguir mi primer trabajo en IT como programador junior o soporte técnico.
+</p>
